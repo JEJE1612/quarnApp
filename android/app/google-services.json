@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090269268183",
+    "project_id": "mislumsoul",
+    "storage_bucket": "mislumsoul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090269268183:android:5fd5b86eb09abd82f4c892",
+        "android_client_info": {
+          "package_name": "com.example.qurankareem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZHyVNraLXbDd99dTPId5jX8PYjitTD84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
